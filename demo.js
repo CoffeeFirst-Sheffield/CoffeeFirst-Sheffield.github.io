@@ -1,3 +1,3 @@
 $(function(){
-	$('h1').css('color','#33ccff');
+	$('h1').css('color','#e68a00');
 })
