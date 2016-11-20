@@ -1,14 +1,14 @@
-h1{
-	font-family: 'Futura', helvetica;
-	text-align: center;
-	background-color: #1a0900;
-}
-
 body {
+	font-family: 'Muli', sans-serif;
 	background-color: #1a0900;
 	margin: 0;
 	padding: 0;
-	font-family: 'Futura';
+}
+
+h1{
+	color: #e68a00;
+	text-align: center;
+	background-color: #1a0900;
 }
 
 .nav {
@@ -33,6 +33,35 @@ body {
 
 .icon {
 	display: none;
+}
+
+@media screen and (max-width:680px) {
+  .nav li:not(:first-child) {display: none;}
+  .nav li.icon {
+    float: right;
+    display: inline-block;
+  }
+}
+
+@media screen and (max-width:680px) {
+  .nav.responsive {position: relative;}
+  .nav.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .nav.responsive li {
+    float: none;
+    display: inline;
+  }
+  .nav.responsive li a {
+    display: block;
+    text-align: left;
+  }
+}
+
+.container{
+	padding: 0 20px 0 20px;
 }
 
 h3{
