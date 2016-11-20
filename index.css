@@ -29,6 +29,12 @@ body {
 	color: white;
 }
 
+.nav li a:hover {background-color: #555;}
+
+.icon {
+	display: none;
+}
+
 h3{
 	text-align:center;
 	color:#e68a00;
