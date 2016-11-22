@@ -13,7 +13,7 @@ h1{
 }
 
 .nav {
-	background-color: #663300;
+	background-color: #6f6f6f;
 	color: #e68a00;
 	list-style: none;
 	text-align: center;
@@ -67,7 +67,7 @@ h1{
 
 h3{
 	text-align:center;
-	color:#e68a00;
+	color:#e5e5e5;
 }
 
 .intro {
@@ -75,6 +75,21 @@ h3{
 	color: #ffffff;
 }
 
+.coffee1 {
+	text-align: center;
+	color: #ffffff;
+}
+
+.coffee1a {
+	text-align: center;
+	color: #ffffff;
+}
+
+.coffee1b {
+	text-align: center;
+	color: #ffffff;
+}
+.
 #social-buttons button {
 	color: white;
 }
