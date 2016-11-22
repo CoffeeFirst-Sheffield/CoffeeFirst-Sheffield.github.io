@@ -11,6 +11,11 @@ header {
 	text-align: center;
 }
 
+img {
+    max-width: 100%;
+    
+}
+
 .nav {
 	background-color: #6f6f6f;
 	color: white;
