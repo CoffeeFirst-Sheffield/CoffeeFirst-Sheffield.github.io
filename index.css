@@ -86,6 +86,9 @@ h3{
 	text-decoration: underline;
 }
 
+.headings a{
+	color:black;
+}
 .coffee1 {
 	text-align: center;
 	color: #2e5100;
