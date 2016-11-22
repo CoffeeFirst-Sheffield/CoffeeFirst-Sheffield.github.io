@@ -1,20 +1,20 @@
 
 body {
-	background-color: #1a0900;
+	background-color: #ffffff;
 	font-family: 'Muli', sans-serif;
 	margin: 0;
 	padding: 0;
 }
 
 h1{
-	color: #e68a00;
+	color: white;
 	text-align: center;
-	background-color: #1a0900;
+	background-color: white;
 }
 
 .nav {
 	background-color: #6f6f6f;
-	color: #e68a00;
+	color: white;
 	list-style: none;
 	text-align: center;
 	padding: 20px 0 20px 0;
@@ -67,27 +67,27 @@ h1{
 
 h3{
 	text-align:center;
-	color:#e5e5e5;
+	color: #281f29;
 }
 
 .intro {
 	text-align: center;
-	color: #ffffff;
+	color: black;
 }
 
 .coffee1 {
 	text-align: center;
-	color: #ffffff;
+	color: black;
 }
 
 .coffee1a {
 	text-align: center;
-	color: #ffffff;
+	color: black;
 }
 
 .coffee1b {
 	text-align: center;
-	color: #ffffff;
+	color: black;
 }
 .
 #social-buttons button {
