@@ -79,7 +79,7 @@ h3{
 	text-align: center;
 }
 
-.number1 {
+.headings {
 	text-align: center;
 	font-weight: bold;
 	color: black;
@@ -113,13 +113,6 @@ h3{
 	text-align: center;
 }
 
-.number2 {
-	text-align: center;
-	font-weight: bold;
-	color: black;
-	text-decoration: underline;
-}
-
 .coffee2 {
 	text-align: center;
 	color: #2e5100;
@@ -143,13 +136,6 @@ h3{
 .break {
 	color: #b3e079;
 	text-align: center;
-}
-
-.number3 {
-	text-align: center;
-	font-weight: bold;
-	color: black;
-	text-decoration: underline;
 }
 
 .coffee3 {
@@ -176,13 +162,6 @@ h3{
 	text-align: center;
 }
 
-.number4 {
-	text-align: center;
-	font-weight: bold;
-	color: black;
-	text-decoration: underline;
-}
-
 .coffee4 {
 	text-align: center;
 	color: #2e5100;
@@ -205,13 +184,6 @@ h3{
 .break {
 	color: #b3e079;
 	text-align: center;
-}
-
-.number5 {
-	text-align: center;
-	font-weight: bold;
-	color: black;
-	text-decoration: underline;
 }
 
 .coffee5 {
