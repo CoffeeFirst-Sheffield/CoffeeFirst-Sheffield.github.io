@@ -97,9 +97,9 @@ h3{
 }
 
 .caferoco.jpg {
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 6
 }
 
 .coffee1a {
@@ -131,9 +131,7 @@ h3{
 }
 
 .remos.jpg {
-	margin-left: auto;
-	margin-right: auto;
-	width: 6
+	align-self: center;
 }
 
 .coffee2a {
@@ -142,6 +140,100 @@ h3{
 }
 
 .coffee2b {
+	text-align: center;
+	color: black;
+	padding: 20px 0 20px 0;
+}
+
+.break {
+	color: #b3e079;
+	text-align: center;
+}
+
+.number3 {
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	text-decoration: underline;
+}
+
+.coffee3 {
+	text-align: center;
+	color: #2e5100;
+}
+
+.tamper.jpg {
+	align-self: center;
+}
+
+.coffee3a {
+	text-align: center;
+	color: black;
+}
+
+.coffee3b {
+	text-align: center;
+	color: black;
+	padding: 20px 0 20px 0;
+}
+.break {
+	color: #b3e079;
+	text-align: center;
+}
+
+.number4 {
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	text-decoration: underline;
+}
+
+.coffee4 {
+	text-align: center;
+	color: #2e5100;
+}
+
+.alyssum.jpg {
+	align-self: center;
+}
+
+.coffee4a {
+	text-align: center;
+	color: black;
+}
+
+.coffee4b {
+	text-align: center;
+	color: black;
+	padding: 20px 0 20px 0;
+}
+.break {
+	color: #b3e079;
+	text-align: center;
+}
+
+.number5 {
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	text-decoration: underline;
+}
+
+.coffee5 {
+	text-align: center;
+	color: #2e5100;
+}
+
+.steamyard.jpg {
+	align-self: center;
+}
+
+.coffee5a {
+	text-align: center;
+	color: black;
+}
+
+.coffee5b {
 	text-align: center;
 	color: black;
 	padding: 20px 0 20px 0;
