@@ -2,18 +2,13 @@
 body {
 	background-color: #ffffff;
 	font-family: 'Muli', sans-serif;
+	text-align: center;
 	margin: 0;
 	padding: 0;
 }
 
 header {
 	text-align: center;
-}
-
-h1{
-	color: white;
-	text-align: center;
-	background-color: white;
 }
 
 .nav {
@@ -66,7 +61,7 @@ h1{
 }
 
 .container{
-	padding: 0 20px 0 20px;
+	padding: 0 100px 0 100px;
 }
 
 h3{
@@ -240,6 +235,7 @@ h3{
 }
 .
 #social-buttons button {
+	font-family: 'Muli', sans-serif;
 	color: white;
 }
 
