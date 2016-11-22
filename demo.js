@@ -6,3 +6,6 @@ function myFunction() {
         x.className = "nav";
     }
 }
+
+$("submit_button").on("click", function() {
+            alert("Thanks for submitting your contact details!")
